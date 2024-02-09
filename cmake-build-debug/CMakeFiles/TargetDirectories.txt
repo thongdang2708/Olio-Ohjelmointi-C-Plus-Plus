@@ -1,0 +1,3 @@
+/Users/thongdang/Desktop/C++/olio_ohjelmointi_kurssi/cmake-build-debug/CMakeFiles/olio_ohjelmointi_kurssi.dir
+/Users/thongdang/Desktop/C++/olio_ohjelmointi_kurssi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thongdang/Desktop/C++/olio_ohjelmointi_kurssi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
